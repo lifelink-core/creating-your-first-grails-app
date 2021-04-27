@@ -1,5 +1,7 @@
 # Generate a Guide
 
+*This project has been archived, any code / packages are likely obsolete and should not be reused.*
+
 # Generate a Book
 
 Please, run: 
